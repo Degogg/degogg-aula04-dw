@@ -11,5 +11,9 @@
 4- Criação do Arquivo Readme.md no *Vscode*.
 
 5- Aprendemos a dar o Commit no *github desktop*.
+
+6- Aprendemos a dar _Push_.
+
+7- Aprendemos a dar o _Pull_.
  
 

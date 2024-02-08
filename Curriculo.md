@@ -29,6 +29,6 @@ Jogo Valorant desde a 4 semanas atrás kkkkk mas sou um bom jogados, caso queira
 
 **Desenvolvimento de Games:** C#, Linguagem Gamermaker.
 
-# Total de Commits#
+# Total de Commits #
 
 **9 commits em dois repositórios** 😶😶
